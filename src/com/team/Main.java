@@ -75,7 +75,7 @@ public class Main {
         System.out.print("\t9. " + daftarMenu(menu9) + "\t: ");
         pesanMenu9 = input.nextInt();
 
-        // perhitungan harga per makanan
+        // perhitungan harga per menu
         tMenu1 = pesanMenu1 * daftarHarga(menu1);
         tMenu2 = pesanMenu2 * daftarHarga(menu2);
         tMenu3 = pesanMenu3 * daftarHarga(menu3);
