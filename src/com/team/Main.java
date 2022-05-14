@@ -8,6 +8,7 @@ public class Main {
     public static void main(String[] args) {
         // write your code here
 
+        // deklarasi variable
         String menu1, menu2, menu3, menu4, menu5, menu6, menu7, menu8, menu9;
         String nama, member;
         int pesanMenu1 = 0, pesanMenu2 = 0, pesanMenu3 = 0, pesanMenu4 = 0, pesanMenu5 = 0, pesanMenu6 = 0, pesanMenu7 = 0, pesanMenu8 = 0, pesanMenu9 = 0;
@@ -29,7 +30,7 @@ public class Main {
 
         System.out.println("");
         System.out.println("\t\t\t\t\t==========================================");
-        System.out.println("\t\t\t\t\t||\t\t\t\tDream Cafe\t\t\t\t||");
+        System.out.println("\t\t\t\t\t||\t\t\t\tDream Café\t\t\t\t||");
         System.out.println("\t\t\t\t\t||    'Melayani dengan sepenuh hati'    ||");
         System.out.println("\t\t\t\t\t==========================================");
 
@@ -111,7 +112,7 @@ public class Main {
         System.out.println("\n\tNota Pembelian: ");
         System.out.println("");
         System.out.println("\t\t\t\t\t==========================================");
-        System.out.println("\t\t\t\t\t||\t\t\t\tDream Cafe\t\t\t\t||");
+        System.out.println("\t\t\t\t\t||\t\t\t\tDream Café\t\t\t\t||");
         System.out.println("\t\t\t\t\t||    'Melayani dengan sepenuh hati'    ||");
         System.out.println("\t\t\t\t\t==========================================\n");
 
